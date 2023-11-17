@@ -78,7 +78,7 @@
   font-family: 'Pretendard';
 }
 
-@layer compoents {
+@layer components {
   .header-menu {
     @apply px-6 font-semibold;
   }
